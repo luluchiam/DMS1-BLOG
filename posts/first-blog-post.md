@@ -41,11 +41,13 @@ Another group actually helped us with this one because we didn't have any clue o
 ![image](pic8.jpg)
 This one was really funny because we were looking everywhere for a golden globe but never found it and we saw this golden oval shaped thingy on top so we decided to just go with it.
 
-##
+## A wide machine, dispensing beverages from a far away land
 ![image](pic9.jpg)
+When we saw "dispensing beverages" we immediately thought of the vending machine.
 
-##
+## A curtain of roots, delivered by a winged visitor
 ![image](pic10.jpg)
+We were very confused with this and we had to rush back to class so we found this place that had roots.
 
 
 ![a drippy lemon](logo.svg)
