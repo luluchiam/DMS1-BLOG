@@ -1,14 +1,16 @@
 ---
-title: This is a blog post!
-published_at: 2022-11-04
-snippet: An example of a blog post.
+title: SCAVENGER HUNT
+published_at: 2024-07-24
+snippet: First day of class!
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+# 
 
 ![test](IMG_7490.jpg)
+
+![image](pic 2.jpg)
 
 ![a drippy lemon](logo.svg)
 
