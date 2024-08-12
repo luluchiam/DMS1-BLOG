@@ -7,8 +7,10 @@ allow_math: true
 ---
 
 # 
-
+## An Exploding Coffee
 ![test](IMG_7490.jpg)
+
+hi
 
 ![image](pic2.jpg)
 
