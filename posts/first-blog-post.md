@@ -10,7 +10,8 @@ allow_math: true
 
 ![test](IMG_7490.jpg)
 
-![image](pic 2.jpg)
+![image](pic2.jpg)
+
 
 ![a drippy lemon](logo.svg)
 
