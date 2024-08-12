@@ -22,7 +22,7 @@ This one was really confusing and we didn't manage to find a black box but we sa
 This was quite challenging for us as we were all new to campus and we didn't know our way around the library but we tried our best to find a book that was somewhat related to digital media.
 
 ## A wide net strung above, bulging under the weight of its flying paper cargo
-![image](pic4.jpg)
+![image](pic4.jpeg)
 We actually had to get a librarian's help to find this because we didn't understand this task at all.
 
 ## The disembodied hands of a great ape
