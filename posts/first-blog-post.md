@@ -10,9 +10,16 @@ allow_math: true
 ## An Exploding Coffee
 ![test](IMG_7490.jpg)
 
-hi
+We immediately went to one of the coffee shops in campus because to our understanding, there was nothing else or no other place that made sense.
 
+## A basement-dwelling black box, bigger than you might think
 ![image](pic2.jpg)
+
+This one was really confusing and we didn't manage to find a black box but we saw this study space that looked like a big black box. 
+
+## 
+![image](pic3.jpg)
+
 
 
 ![a drippy lemon](logo.svg)
