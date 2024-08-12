@@ -37,6 +37,10 @@ One of our group members actually knew this place so she led us directly to this
 ![image](pic7.jpg)
 Another group actually helped us with this one because we didn't have any clue on what this meant.
 
+## A golden globe atop of tower of eights
+![image](pic8.jpg)
+This one was really funny because we were looking everywhere for a golden globe but never found it and we saw this golden oval shaped thingy on top so we decided to just go with it.
+
 ![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
