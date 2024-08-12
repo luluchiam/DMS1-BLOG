@@ -1,5 +1,5 @@
 ---
-title: PROJECT STORYBOARD
+title: SELF-PORTRAIT STORYBOARD
 published_at: 2024-07-24
 snippet: Storyboard for my project
 disable_html_sanitization: true
@@ -9,3 +9,5 @@ allow_math: true
 ![image](storyboard1.jpg)
 ![image](storyboard2.jpg)
 ![image](storyboard3.jpg)
+![image](sb4.jpg)
+![image](sb5.jpg)
