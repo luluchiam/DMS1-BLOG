@@ -1,7 +1,7 @@
 ---
 title: SCAVENGER HUNT
 published_at: 2024-07-24
-snippet: First day of class!
+snippet: first day of class
 disable_html_sanitization: true
 allow_math: true
 ---
