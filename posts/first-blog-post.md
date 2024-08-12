@@ -29,6 +29,13 @@ We actually had to get a librarian's help to find this because we didn't underst
 ![image](pic5.jpg)
 We actually saw another group from our class take a picture here and we found that it made the most sense to the "hands of a great ape"
 
+## A study space fit for a Sith Lord 
+![image](pic6.jpg)
+One of our group members actually knew this place so she led us directly to this study space which was pretty cool.
+
+## A door for the condemned 
+![image](pic7.jpg)
+Another group actually helped us with this one because we didn't have any clue on what this meant.
 
 ![a drippy lemon](logo.svg)
 
