@@ -41,6 +41,13 @@ Another group actually helped us with this one because we didn't have any clue o
 ![image](pic8.jpg)
 This one was really funny because we were looking everywhere for a golden globe but never found it and we saw this golden oval shaped thingy on top so we decided to just go with it.
 
+##
+![image](pic9.jpg)
+
+##
+![image](pic10.jpg)
+
+
 ![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
