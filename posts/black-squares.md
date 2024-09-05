@@ -1,7 +1,7 @@
 ---
 title: BLACK SQUARES ACTIVITY 
 published_at: 2024-05-09
-snippet: first homework
+snippet: classwork
 disable_html_sanitization: true
 allow_math: true
 ---
