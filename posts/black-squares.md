@@ -1,6 +1,6 @@
 ---
 title: BLACK SQUARES ACTIVITY 
-published_at: 2024-05-09
+published_at: 2024-09-05
 snippet: classwork
 disable_html_sanitization: true
 allow_math: true
