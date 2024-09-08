@@ -27,17 +27,17 @@ I think the shooting star icon is the best choice compared to other star icons f
 I think the dream bubble with the "ZZZ" is the best icon as it represents dreaming while sleeping, it's a straightfoward icon.
 
 ## Eye
-![image](eyessketch.jpg)
+![image](eyes.jpg)
 
 A regular eye icon is the best choice because its straightforward design effectively symbolizes perception, awareness, and introspection in a universally recognizable way.
 
 ## Hourglass
-![image](hourglass1.jpg)
+![image](hourglass.jpg)
 
 A regular hourglass icon is the best choice because its classic design effectively symbolizes the passage of time and the fluidity often experienced in dreams.
 
 ## Book
-![image](book.jpg)
+![image](books.jpg)
 
 A regular book icon is the best choice because its design  represents storytelling, imagination, and the unfolding of narratives—core elements of dreaming. 
 
