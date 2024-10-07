@@ -1,0 +1,17 @@
+---
+title: WEEK 7 SESSION 1
+published_at: 2024-09-29
+snippet: classwork and homework 
+disable_html_sanitization: true
+allow_math: true
+---
+
+## Solar System
+![image](solarsystem.jpg)
+
+This was a fun exercise which helped me understand how Unity works and how cool it is, it was also a good first exercise to introduce us to Unity.
+
+## Homework: Digital Environment Sketch
+![image](3dsketch.jpg)
+
+A rough sketch of my environment, I want to create two houses which represents a change from being lonely and feeling lost to feeling a new positive energy and personal growth.
