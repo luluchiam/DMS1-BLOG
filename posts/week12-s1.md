@@ -1,5 +1,5 @@
 ---
-title: WEEK 11 SESSION 2
+title: WEEK 12 SESSION 1
 published_at: 2024-10-11
 snippet: progression
 disable_html_sanitization: true
